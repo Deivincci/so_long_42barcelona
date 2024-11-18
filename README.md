@@ -29,11 +29,13 @@ Elementos del Juego:
 En la esquina superior izquierda encontrarás un contador de pasos y un contador de ítems.
 Debes recolectar todos los ítems antes de que la puerta se abra para completar el nivel.
 Cuidado con las plantas: Actúan como enemigos y, si las tocas, el juego terminará.
+
 Notas Adicionales
 Existe una versión con:
 Pantalla de Game Over.
 Animaciones de personajes.
 Otros efectos visuales.
 Sin embargo, esta versión no se incluye aquí porque el proyecto "lo prohíbe" según las reglas.
+
 Captura de Pantalla
 ![Descripción de la imagen](https://github.com/Deivincci/so_long_42barcelona/blob/main/solonmg.png?raw=true)
