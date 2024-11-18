@@ -7,6 +7,7 @@ Ejecutar el Juego
 El juego ya está compilado, por lo que solo necesitas ejecutar el siguiente comando desde la carpeta del proyecto:
 
 ./so_long maps/map1.ber
+
 Uso del Makefile
 Si deseas experimentar con el Makefile incluido, utiliza los siguientes comandos:
 
