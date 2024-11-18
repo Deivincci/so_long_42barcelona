@@ -8,16 +8,21 @@ El juego ya está compilado, por lo que solo necesitas ejecutar el siguiente com
 
 ./so_long maps/map1.ber
 
+los mapas correctos son map1,map2,map3,map4,map5,en la carpeta maps hay mas mapas,pero son erroneos para probar el control de errores,mapas no rectangulares,con errores,etc...
+
 Uso del Makefile
 Si deseas experimentar con el Makefile incluido, utiliza los siguientes comandos:
 
 make fclean: Limpia todos los archivos generados, incluyendo el ejecutable.
+
 make: Genera el ejecutable del juego.
+
 Características
 Compatibilidad:
 
 Linux: Totalmente funcional.
 MacOS: Existe una versión compatible, con ligeros cambios en los controles.
+
 Controles del Juego:
 
 W: Mover hacia arriba
